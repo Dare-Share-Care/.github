@@ -18,5 +18,10 @@ We are three Software Developer students from CPH Business Academy, this organiz
 
 ## 📦 **Projects**
 
+### Exam Projects
+
 - **[Database Exam Project](https://github.com/Dare-Share-Care/DatabaseExam)**: A movie rental platform using Python's fastAPI and React, integrating MSSQL, Neo4j, and Redis for efficient data management and user experience.
+
+### Mini Projects
+
 - **[System Integration MP2](https://github.com/Dare-Share-Care/SystemIntegrationMP2-Application)**: .NET Web service used to process BPM models specifically using Camunda API
