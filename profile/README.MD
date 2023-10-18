@@ -12,8 +12,8 @@ We are three Software Developer students from CPH Business Academy, this organiz
 
 ## 🛠 **Technologies & Tools**
 
-- **Languages**: C#
-- **Frameworks**: .NET
+- **Languages**: C#, Python
+- **Frameworks**: .NET, Jupyter Notebook
 - **Tools**: Docker
 
 ## 📦 **Projects**
