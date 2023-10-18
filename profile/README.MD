@@ -1,1 +1,21 @@
-# Dare Share Care
+# 🎓 **Dare Share Care**
+
+Hello there! 👋 We are three software developer students, this organization will mainly consist of our school assignments.
+
+## 📚 **About Us**
+
+- **Frederik Bilgrav Andersen**: [GitHub](https://github.com/FrederikBA) | [LinkedIn](https://www.linkedin.com/in/frederikba)
+
+- **Janus Stivang Rasmussen**: [GitHub](https://github.com/Janussr) | [LinkedIn](https://www.linkedin.com/in/janus-rasmussen-5882021a5)
+
+- **Julius Krüger Madsen**: [GitHub](https://github.com/JuliusKryger) | [LinkedIn](https://www.linkedin.com/in/julius-kruger/)
+
+## 🛠 **Technologies & Tools**
+
+- **Languages**: C#
+- **Frameworks**: .NET
+- **Tools**: Docker
+
+## 📦 **Projects**
+
+- **[System Integration MP2](https://github.com/Dare-Share-Care/SystemIntegrationMP2-Application)**: .NET Web service used to process BPM models specifically using Camunda API
