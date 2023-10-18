@@ -1,6 +1,6 @@
 # 🎓 **Dare Share Care**
 
-Hello there! 👋 We are three software developer students, this organization will mainly consist of our school assignments.
+We are three Software Developer students from CPH Business Academy, this organization will mainly consist of our school assignments.
 
 ## 📚 **About Us**
 
